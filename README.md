@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @stef2098
-- 👀 I’m interested in C#, C++, php, Java
+- 👀 I’m interested in C#, C++, php, python
 - 📫 How to reach me X @StefanPavlovicc, Instagram @stefanpavloviccccccc, Discord stefan2098
 - Check out my full projects portfolio at стефан.срб
