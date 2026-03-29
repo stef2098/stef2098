@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @stef2098
-- 👀 I’m interested in C#, C++, php, python
-- 📫 How to reach me X @StefanPavlovicc, Instagram @stefanpavloviccccccc, Discord stefan2098
-- Check out my full projects portfolio at стефан.срб
+- Hi, I’m Stefan Pavlović, a first year student at the University of Belgrade, faculty of Mathematics
+- I'm interested in graph theory, AI, and cyber security
+- The programming languages I used in projects or in school/university coursework are C++, JavaScript, Python, C# and others
+- Some technologies I know are React, React Native, Node.js, Flask, etc.
+- I participated in the MTS APP konkurs competition in 2024 and 2025 where I was in a winning team in 2025
